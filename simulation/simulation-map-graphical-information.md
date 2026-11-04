@@ -17,7 +17,7 @@ Cette page explique comment utiliser **Information graphique** pour colorer la c
    * **Rayon d’influence** : déplacez le curseur. La valeur par défaut est **15**.
    * **Gradient** : déplacez le curseur. La valeur par défaut est **15**.
 
-![Le menu Information graphique avec les options Coloration et Densité](../.gitbook/assets/TS_Simulation_MapGraphicalInformation_001.jpg)
+![Le menu Information graphique avec les options Coloration et Densité](../.gitbook/assets/TS_Simulation_MapGraphicalInformation_001_fr.jpg)
 
 ## Résultat
 

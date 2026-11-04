@@ -26,13 +26,13 @@ La page comporte une barre d’outils et quatre panneaux : **Livraisons**, **Car
 * [Consulter les détails d’une tournée](simulation-details.md) : consultez les totaux de distance, de livraisons et de durées, ainsi que les plannings de vos livreurs.
 * [Analyser les résultats](simulation-analysis.md) : accédez aux graphiques d’analyse pour mieux comprendre les résultats.
 
-![La page Simulation avec les panneaux Livraisons, Carte, Tournées et Détails](../.gitbook/assets/TS_Simulation_Overview_001.jpg)
+![La page Simulation avec les panneaux Livraisons, Carte, Tournées et Détails](../.gitbook/assets/TS_Simulation_Overview_001_fr.jpg)
 
 ## Résultat
 
 Lorsque vous ouvrez une simulation, la fenêtre **Résultats de l’optimisation** s’ouvre. Elle affiche **Livraisons planifiées**, **Livraisons non planifiées**, **Distance totale**, **Tournées planifiées**, **Durée de conduite**, **Durée totale**, **Durée totale travaillée**, **Durée de visite**, **À l’heure**, **En retard**, **En avance**, **Fréquence non optimale**, **Durée de repos**, **Livreurs utilisés**, **Quantité totale** et **Durée de l’optimisation**. Depuis cette fenêtre, vous pouvez cliquer sur **Plus de résultats** ou **Afficher la simulation**.
 
-![La fenêtre Résultats de l’optimisation avec les totaux et le bouton Afficher la simulation](../.gitbook/assets/TS_Simulation_Overview_002.jpg)
+![La fenêtre Résultats de l’optimisation avec les totaux et le bouton Afficher la simulation](../.gitbook/assets/TS_Simulation_Overview_002_fr.jpg)
 
 ## Conseils
 

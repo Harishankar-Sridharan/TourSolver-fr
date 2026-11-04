@@ -18,7 +18,7 @@ Cette page explique comment choisir les colonnes du panneau **Livraisons** et cr
 
 Utilisez l’onglet **Pied de page** pour définir le pied de page du tableau. Cliquez sur **Annuler** pour fermer la fenêtre sans enregistrer.
 
-![La fenêtre Personnaliser la liste avec les champs disponibles et les champs affichés](../.gitbook/assets/TS_Simulation_DeliveriesCustomizeList_001.jpg)
+![La fenêtre Personnaliser la liste avec les champs disponibles et les champs affichés](../.gitbook/assets/TS_Simulation_DeliveriesCustomizeList_001_fr.jpg)
 
 ## Filtrer la liste
 

@@ -13,7 +13,7 @@ Cette page explique comment utiliser le panneau **Détails** pour consulter les 
 3. Cliquez sur **Détails** pour consulter les totaux, ou sur **Plannings** pour consulter les plannings. Voir [Consulter les plannings](simulation-details-agendas.md).
 4. Pour consulter les totaux d’une tournée, ouvrez la tournée dans le panneau **Tournées**. Voir [Afficher une tournée](simulation-routes-view-route.md).
 
-![Le panneau Détails affichant les totaux de toutes les tournées](../.gitbook/assets/TS_Simulation_Details_001.jpg)
+![Le panneau Détails affichant les totaux de toutes les tournées](../.gitbook/assets/TS_Simulation_Details_001_fr.jpg)
 
 ## Fonctionnalités
 

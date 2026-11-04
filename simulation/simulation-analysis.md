@@ -12,7 +12,7 @@ Cette page explique comment utiliser le panneau **Analyse** pour accéder aux gr
 2. Cliquez sur **Modifier l’affichage des panneaux**. La barre d’outils affiche les panneaux que vous pouvez placer : **Livraisons**, **Carte**, **Détails**, **Tournées** et **Analyse**.
 3. Faites glisser **Analyse** sur la page.
 
-![L’éditeur de disposition avec les panneaux Livraisons, Carte, Détails, Tournées et Analyse](../.gitbook/assets/TS_Simulation_Analysis_001.jpg)
+![L’éditeur de disposition avec les panneaux Livraisons, Carte, Détails, Tournées et Analyse](../.gitbook/assets/TS_Simulation_Analysis_001_fr.jpg)
 
 4. Cliquez sur la flèche déroulante **Analyse**.
 5. Cliquez sur un graphique. Les graphiques sont décrits dans [Graphiques d’analyse](simulation-analysis-charts.md).

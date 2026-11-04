@@ -21,7 +21,7 @@ Utilisez **Ajouter des rendez-vous à replanifier** pour planifier à nouveau le
 
 Cliquez sur **Annuler** pour fermer la fenêtre sans ajouter de rendez-vous.
 
-![La fenêtre de choix des rendez-vous à replanifier avec la période et la liste des rendez-vous](../.gitbook/assets/TS_Simulation_DeliveriesAddAppointments_001.jpg)
+![La fenêtre de choix des rendez-vous à replanifier avec la période et la liste des rendez-vous](../.gitbook/assets/TS_Simulation_DeliveriesAddAppointments_001_fr.jpg)
 
 ## Résultat
 

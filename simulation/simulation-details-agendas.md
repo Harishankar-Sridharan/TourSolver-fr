@@ -14,13 +14,13 @@ Cette page explique comment utiliser la vue **Plannings** pour voir quand vos li
 4. Pour changer de jour, cliquez sur les flèches de chaque côté de la date, ou cliquez sur l’icône de calendrier.
 5. Pour voir la signification des couleurs, cliquez sur l’icône d’information à côté du titre du panneau.
 
-![La vue Plannings avec la disponibilité des livreurs sur une chronologie](../.gitbook/assets/TS_Simulation_DetailsAgendas_001.jpg)
+![La vue Plannings avec la disponibilité des livreurs sur une chronologie](../.gitbook/assets/TS_Simulation_DetailsAgendas_001_fr.jpg)
 
 ## Résultat
 
 Les couleurs indiquent les livreurs disponibles (vert), affectés (bleu) et indisponibles (gris).
 
-![La légende des couleurs des plannings](../.gitbook/assets/TS_Simulation_DetailsAgendas_002.jpg)
+![La légende des couleurs des plannings](../.gitbook/assets/TS_Simulation_DetailsAgendas_002_fr.jpg)
 
 ## Rubriques connexes
 

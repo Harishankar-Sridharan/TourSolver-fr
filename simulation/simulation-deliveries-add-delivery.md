@@ -25,9 +25,9 @@ Utilisez **Ajouter une livraison** lorsqu’un client demande une nouvelle livra
 
 Cliquez sur **Annuler** pour fermer la fenêtre sans ajouter de livraison.
 
-![L’onglet Général de la fenêtre Ajouter une livraison](../.gitbook/assets/TS_Simulation_DeliveriesAddDelivery_001.jpg)
+![L’onglet Général de la fenêtre Ajouter une livraison](../.gitbook/assets/TS_Simulation_DeliveriesAddDelivery_001_fr.jpg)
 
-![L’onglet Contraintes de la fenêtre Ajouter une livraison](../.gitbook/assets/TS_Simulation_DeliveriesAddDelivery_002.jpg)
+![L’onglet Contraintes de la fenêtre Ajouter une livraison](../.gitbook/assets/TS_Simulation_DeliveriesAddDelivery_002_fr.jpg)
 
 ## Résultat
 

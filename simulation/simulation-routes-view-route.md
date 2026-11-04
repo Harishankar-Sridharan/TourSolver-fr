@@ -19,13 +19,13 @@ Cette page explique comment ouvrir une tournée pour voir ses arrêts, ses horai
    * **Désaffecter** : désaffectez des livraisons de la tournée.
 7. Cliquez sur **Revenir** pour revenir à la liste des tournées.
 
-![Une tournée ouverte dans le panneau Tournées, avec sa chronologie et ses événements](../.gitbook/assets/TS_Simulation_RoutesViewRoute_001.jpg)
+![Une tournée ouverte dans le panneau Tournées, avec sa chronologie et ses événements](../.gitbook/assets/TS_Simulation_RoutesViewRoute_001_fr.jpg)
 
 ## Résultat
 
 Le panneau **Détails** affiche la tournée, par exemple **Tournée Danijel Grubelnik 08/24/2026**, sur trois onglets : **Information**, **Essentiel** et **Autres**. L’onglet **Information** affiche le **Nom**, la **Distance totale**, le **Nombre de livraisons planifiées**, la **Durée de visite**, la **Durée de conduite**, la **Durée d’attente**, la **Durée de repos** et la **Durée totale** de la tournée.
 
-![Le panneau Détails avec les totaux de la tournée dans l’onglet Information](../.gitbook/assets/TS_Simulation_RoutesViewRoute_002.jpg)
+![Le panneau Détails avec les totaux de la tournée dans l’onglet Information](../.gitbook/assets/TS_Simulation_RoutesViewRoute_002_fr.jpg)
 
 ## Conseils
 

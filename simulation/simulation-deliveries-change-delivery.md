@@ -16,7 +16,7 @@ Cette page explique comment modifier les informations d’une livraison dans une
 
 Cliquez sur **Annuler** pour fermer la fenêtre sans enregistrer vos modifications.
 
-![La fenêtre de modification d’une livraison avec l’onglet Général](../.gitbook/assets/TS_Simulation_DeliveriesChangeDelivery_001.jpg)
+![La fenêtre de modification d’une livraison avec l’onglet Général](../.gitbook/assets/TS_Simulation_DeliveriesChangeDelivery_001_fr.jpg)
 
 ## Résultat
 

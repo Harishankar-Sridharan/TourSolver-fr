@@ -25,7 +25,7 @@ Utilisez **Ordonner une tournée** lorsque vous souhaitez placer les livraisons 
 
 Cliquez sur **Annuler** pour fermer la fenêtre sans ordonner la tournée.
 
-![La fenêtre Ordonner une tournée avec l’heure de départ, la date, l’heure de début et la ressource](../.gitbook/assets/TS_Simulation_DeliveriesSingleRouteOrdering_001.jpg)
+![La fenêtre Ordonner une tournée avec l’heure de départ, la date, l’heure de début et la ressource](../.gitbook/assets/TS_Simulation_DeliveriesSingleRouteOrdering_001_fr.jpg)
 
 ## Options et champs
 

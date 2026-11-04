@@ -17,7 +17,7 @@ Cette page explique comment importer un fichier de livraisons dans une simulatio
 
 Cliquez sur la flèche de retour en haut à gauche pour revenir à la simulation sans importer de fichier.
 
-![La page d’importation de fichier avec la zone de dépôt et les contraintes des structures de données](../.gitbook/assets/TS_Simulation_DeliveriesAddFile_001.jpg)
+![La page d’importation de fichier avec la zone de dépôt et les contraintes des structures de données](../.gitbook/assets/TS_Simulation_DeliveriesAddFile_001_fr.jpg)
 
 ## Options et champs
 

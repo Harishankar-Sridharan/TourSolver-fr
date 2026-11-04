@@ -14,7 +14,7 @@ Cette page explique comment utiliser **Visibilité des objets** pour choisir les
 4. Sur la droite, sélectionnez un style de carte : **Carte**, **Noir & blanc**, **Satellite**, **Terrain** ou **Transport public**.
 5. Utilisez les interrupteurs pour activer ou désactiver un calque : **ZFE\_ZTL**, **COMPLETE**, **ADMINISTRATIVE MAP**, **Trafic**, **Poids lourds** ou **Clusters de livraisons**.
 
-![Le menu Visibilité des objets avec les types d’objets, les styles de carte et les calques](../.gitbook/assets/TS_Simulation_MapObjectsVisibility_001.jpg)
+![Le menu Visibilité des objets avec les types d’objets, les styles de carte et les calques](../.gitbook/assets/TS_Simulation_MapObjectsVisibility_001_fr.jpg)
 
 ## Résultat
 

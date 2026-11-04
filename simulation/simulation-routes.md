@@ -22,9 +22,9 @@ Le panneau liste chaque tournée par livreur et par date. Dans la **Vue tournée
 
 Chaque tournée a sa propre couleur, que vous voyez également sur la carte et dans l’icône en forme d’œil à côté de la tournée.
 
-![Le menu Tournées ouvert avec ses actions](../.gitbook/assets/TS_Simulation_Routes_001.jpg)
+![Le menu Tournées ouvert avec ses actions](../.gitbook/assets/TS_Simulation_Routes_001_fr.jpg)
 
-![Le panneau Tournées en vue tournée](../.gitbook/assets/TS_Simulation_Routes_002.jpg)
+![Le panneau Tournées en vue tournée](../.gitbook/assets/TS_Simulation_Routes_002_fr.jpg)
 
 ## Fonctionnalités
 

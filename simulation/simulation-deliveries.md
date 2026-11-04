@@ -18,9 +18,9 @@ Le panneau affiche une ligne par livraison. Par défaut, les colonnes comprennen
 4. Cliquez sur la flèche déroulante **Livraisons**. Le menu liste **Optimiser**, **Ordonner une tournée**, **Affecter des livraisons**, **Désaffecter**, **Ajouter une livraison**, **Ajouter des rendez-vous à replanifier**, **Ajouter depuis les clients**, **Ajouter un fichier de livraisons**, **Ajouter une pause**, **Modifier une livraison**, **Verrouiller**, **Déverrouiller**, **Supprimer**, **Personnaliser la liste** et **Coloration**.
 5. Cliquez sur une action. Chaque action est décrite dans sa propre rubrique, listée sous **Fonctionnalités**.
 
-![Le menu Livraisons ouvert](../.gitbook/assets/TS_Simulation_Deliveries_001.jpg)
+![Le menu Livraisons ouvert](../.gitbook/assets/TS_Simulation_Deliveries_001_fr.jpg)
 
-![La suite du menu Livraisons](../.gitbook/assets/TS_Simulation_Deliveries_002.jpg)
+![La suite du menu Livraisons](../.gitbook/assets/TS_Simulation_Deliveries_002_fr.jpg)
 
 ## Fonctionnalités
 

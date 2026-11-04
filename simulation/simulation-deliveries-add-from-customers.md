@@ -17,7 +17,7 @@ Cette page explique comment ajouter des livraisons à une simulation à partir d
 
 Cliquez sur **Annuler** pour fermer la fenêtre sans ajouter de livraison.
 
-![La fenêtre Ajouter depuis les clients avec la liste des clients](../.gitbook/assets/TS_Simulation_DeliveriesAddFromCustomers_001.jpg)
+![La fenêtre Ajouter depuis les clients avec la liste des clients](../.gitbook/assets/TS_Simulation_DeliveriesAddFromCustomers_001_fr.jpg)
 
 ## Résultat
 
