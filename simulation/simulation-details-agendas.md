@@ -18,7 +18,7 @@ Cette page explique comment utiliser la vue **Plannings** pour voir quand vos li
 
 ## Résultat
 
-Les couleurs indiquent les livreurs disponibles (vert), affectés (bleu) et indisponibles (gris).
+Les couleurs indiquent **Disponible** (vert), **Affecté** (bleu) et **Indisponible** (gris).
 
 ![La légende des couleurs des plannings](../.gitbook/assets/TS_Simulation_DetailsAgendas_002_fr.jpg)
 

@@ -12,7 +12,7 @@ Cette page explique comment choisir la tournée et le créneau d’une livraison
 2. Cochez la case de la livraison que vous souhaitez affecter.
 3. Cliquez sur la flèche déroulante **Livraisons**, puis sur **Affecter des livraisons**.
 4. Sur la page **Affecter une livraison à une tournée**, sélectionnez le livreur dans la première liste, par exemple **Danijel Grubelnik**, et le jour dans le champ de date.
-5. Lisez l’instruction en haut de la page : **Glissez la ligne mise en évidence au créneau où vous souhaitez affecter la livraison.** La ligne mise en évidence correspond à votre livraison, et le badge en haut à droite indique le nombre de livraisons restant à placer, par exemple **1 à placer**. Le tableau liste le **Départ** et les arrêts de la tournée, avec le **Nom**, l’**Adresse**, le **Code postal**, la **Ville/Commune**, le **Départ**, la **Durée réelle de visite**, la **Durée de conduite**, la **Quantité** et l’**État** de chaque arrêt. La dernière ligne affiche les totaux.
+5. Lisez l’instruction en haut de la page : **Glissez la ligne mise en évidence au créneau où vous souhaitez affecter la livraison.** La ligne mise en évidence correspond à votre livraison, et le badge en haut à droite indique le nombre de livraisons restant à placer, par exemple **1 à placer**. Le tableau liste le **Départ** et les arrêts de la tournée, avec le **Nom**, l’**Adresse**, le **Code postal**, la **Ville/Commune**, le **Départ**, la **Durée réelle de visite**, la **Durée de conduite**, la **Quantité** et l’**État** de chaque arrêt. La ligne **Totaux** affiche les totaux.
 6. Faites glisser la ligne mise en évidence vers la position souhaitée pour la livraison dans la tournée.
 7. Cliquez sur la flèche de retour en haut à gauche pour revenir à la simulation.
 
@@ -27,7 +27,7 @@ Vous pouvez vérifier la livraison dans les colonnes **Planifié**, **Affecté �
 ## Conseils
 
 {% hint style="warning" %}
-**Livraisons au-dessus du départ** : les lignes situées au-dessus du départ de la tournée ne sont pas affectées. Elles restent non planifiées.
+**Livraisons au-dessus du départ** : les visites laissées au-dessus du départ de la tournée ne seront pas affectées : elles restent non planifiées.
 {% endhint %}
 
 ## Rubriques connexes
