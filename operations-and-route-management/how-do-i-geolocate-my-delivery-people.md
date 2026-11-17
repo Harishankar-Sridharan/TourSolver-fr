@@ -1,69 +1,75 @@
 # Comment géolocaliser mes livreurs
 
-## 1. Introduction
+Configurez la géolocalisation de l’application mobile, suivez vos livreurs sur la carte de l’onglet **Suivi**, et découvrez pourquoi une position est manquante.
 
-Pouvoir localiser votre équipe de livraison en temps réel est crucial pour une gestion efficace des ressources. Ce guide simplifie le processus d'activation des accès nécessaires et de configuration des paramètres de l'application mobile afin que vous puissiez facilement suivre vos livreurs.
+## Avant de commencer
 
-## 2. Configuration initiale
+* Connectez-vous à **TourSolver** avec un profil utilisateur qui a accès à la page **Configuration**.
+* Créez vos livreurs et leurs tournées, et partagez les tournées avec l’application mobile. Voir [Partager une tournée avec l’application mobile](share-a-tour-with-the-mobile-app.md).
+* Donnez à vos livreurs l’**Accès mobile**. Voir [Créer et modifier un utilisateur](../import-and-data-setup/create-and-modify-a-user.md).
 
-Avant de commencer, le système suppose que vous avez déjà configuré les livreurs et leurs parcours planifiés. Si ces étapes ne sont pas terminées, vous devez d'abord créer la livraison, les livreurs et l'itinéraire.
+## Aperçu des fonctionnalités
 
-### Exigences système (Configuration des accès)
+* **Tracking** : envoie la position des livreurs depuis l’application mobile vers TourSolver.
+* **Accès au mode confidentialité** : permet aux livreurs de désactiver le tracking dans l’application, par exemple pendant une pause. Cela respecte le RGPD.
+* **Jours et heures d’activation** : les jours et les heures pendant lesquels le tracking est actif.
+* **Fréquence de synchronisation des données de géolocalisation** : la fréquence à laquelle l’application envoie la position.
+* **Carte du suivi** : affiche la position et l’historique de géolocalisation des livreurs.
 
-Pour garantir un suivi réussi, votre personnel de livraison doit disposer des autorisations et des accès appropriés à la fois pour la plateforme web et pour l'application mobile.
+## Configurer la géolocalisation
 
-**Action préalable**
+1. Accédez à **Configuration** > **Suivi et expérience client** > **Configurer l’application mobile**.
+2. Cliquez sur **GÉOLOCALISATION**.
+3. Activez **Tracking**.
+4. Choisissez si les livreurs peuvent utiliser le mode confidentialité (**Accès au mode confidentialité**) et repositionner un client (**Accès au repositionnement client**).
+5. Définissez la **Fréquence de synchronisation des données de géolocalisation**.
+6. Sélectionnez les **Jours d’activation**, par exemple du **Lun** au **Ven**, et les heures **Entre** et **Et**, par exemple de **08:00** à **18:00**.
 
-| Type d'accès                                    | Description                                                       |
-| ----------------------------------------------- | ----------------------------------------------------------------- |
-| **Configuration du livreur et de l'itinéraire** | Le livreur et son itinéraire assigné doivent déjà être créés.     |
-| **Accès web**                                   | Nécessaire pour la connexion au système.                          |
-| **Accès mobile**                                | Requis pour utiliser l'application mobile, qui facilite le suivi. |
+<figure><img src="../.gitbook/assets/Geolocation_MobileAppSettings_001.jpg" alt=""><figcaption></figcaption></figure>
 
-## 3. Explications des fonctionnalités et avantages
+7. Dans l’onglet **OPTIONS**, vérifiez le **Nombre de jours consultables dans l’agenda** et la **Fréquence de synchronisation automatique**.
 
-Le système offre des fonctionnalités clés qui vous aident à gérer la sécurité, les autorisations et la visibilité du suivi :
+## Afficher la géolocalisation dans l’onglet Suivi
 
-* **Gestion des rôles et des droits**: C'est ici que vous accordez à vos livreurs les permissions nécessaires pour opérer dans le système.
-* **Configuration de l'application mobile**: Cette section vous permet d'affiner la manière dont l'application mobile communique avec le système, y compris la vitesse de synchronisation et la visibilité de l'agenda.
-* **Paramètres de confidentialité**(**Conformité au RGPD**): Vous avez le pouvoir de limiter quand le suivi a lieu, en respectant les règles de confidentialité des données. Cela renforce la confiance et assure la conformité légale en restreignant le suivi de géolocalisation uniquement aux heures et jours de travail.
+1. Cliquez sur l’onglet **Suivi**.
+2. Sélectionnez la date de la tournée à suivre.
 
-## 4. Activation du suivi de géolocalisation
+![](<../.gitbook/assets/Unknown image (5)>)
 
-### Configurer l'application mobile
-
-**Modifier les paramètres généraux.**&#x20;
-
-1. Nombre de jours consultables dans l'agenda
-2. Fréquence de synchronisation automatique
-3. Afficher les informations de temps de trajet
-
-![](<../.gitbook/assets/Unknown image>)
-
-4. **Définir les règles de confidentialité**: Dans la configuration de l'application mobile, activez la confidentialité selon les règles pertinentes (comme le RGPD).
-
-⚠ **Avertissement**: Si vous opérez dans une région avec des lois strictes sur la confidentialité des données (comme le RGPD), assurez-vous d'activer le suivi uniquement pendant les heures et les jours de travail afin de rester conforme.
-
-### Afficher la géolocalisation dans l'onglet Exécution
-
-1. Une fois la configuration terminée, vous pouvez accéder à la vue de suivi dans l'onglet Exécution
-2. **Sélectionner la date**: Indiquez la date spécifique qui a été planifiée pour l'itinéraire que vous souhaitez suivre.
-
-![](<../.gitbook/assets/Unknown image (1)>)
-
-3. **Ouvrir les paramètres d'affichage**: Cliquez sur **paramètres**.
-4. **Modifier la vue de suivi**: Ici vous pouvez ajuster la façon dont les informations de suivi sont affichées : **Champs disponibles, Champs d'affichage, Rendez-vous à planifier, Carte et Agenda**
+3. Cliquez sur **Paramètres** pour choisir ce que la page affiche : **Champs disponibles**, **Champs d’affichage**, **Rendez-vous à planifier**, **Carte** et **Agenda**.
 
 <figure><img src="../.gitbook/assets/msedge_JSKBVsBhcV.png" alt=""><figcaption></figcaption></figure>
 
-3. Cliquez sur la carte pour activer et afficher l'historique de géolocalisation.
+4. Cliquez sur la carte pour afficher l’historique de géolocalisation.
 
 <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
-## 5. Conseils de productivité
+## Résoudre une position manquante
 
-Voici quelques conseils pour maximiser l'utilisation de la fonction de suivi :
+Si un livreur n’apparaît pas sur la carte, vérifiez ces points :
 
-* **Personnalisez votre vue**: Utilisez le menu des paramètres dans l'onglet Exécution pour modifier ce que vous voyez à l'écran. Si vous n'avez besoin que du suivi de localisation, assurez-vous que la **carte** et **agenda** les affichages sont activés.
-* **Surveiller le temps de trajet**: Assurez-vous de vérifier la configuration de l'application mobile pour **afficher les informations de temps de trajet**. Cela vous aide à prévoir précisément les heures d'arrivée et à gérer les attentes.
-* **Maintenir une synchronisation fréquente**: Si le suivi en temps réel est crucial, vérifiez la **fréquence de synchronisation automatique** réglage dans la configuration de l'application mobile. Une fréquence plus élevée fournit des mises à jour de localisation plus immédiates.
+* **Paramètres de tracking** : **Tracking** est activé, et le jour et l’heure actuels sont compris dans les **Jours d’activation** et les heures **Entre** et **Et**.
+* **Autorisations du téléphone** : sur le téléphone, l’application TourSolver dispose de l’autorisation de localisation **Toujours autoriser** (Android) ou **Toujours** (iOS), afin de pouvoir envoyer la position en arrière-plan. L’économiseur de batterie ne doit pas arrêter l’application.
+* **Mode confidentialité** : le livreur n’a pas activé le mode confidentialité dans l’application.
+* **Jour en cours uniquement** : la position est visible uniquement pour le jour en cours. Pour voir les positions passées, utilisez les coordonnées de fin des visites.
+* **Application fermée** : lorsque l’application est fermée sur le téléphone, la position n’est plus envoyée et elle est perdue. Le livreur doit garder l’application ouverte en arrière-plan.
+
+## Utiliser les coordonnées de fin des visites
+
+Pour les jours passés, l’export de l’onglet **Suivi** donne la position de chaque visite au moment de son début et de sa fin : **Longitude de début**, **Latitude de début**, **Longitude de fin** et **Latitude de fin**. Ajoutez ces champs aux champs affichés de l’export pour comparer la position réelle avec l’adresse du client.
+
+## Conseils
+
+{% hint style="info" %}
+**Maintenez une synchronisation fréquente** : si le suivi en temps réel est essentiel, utilisez une fréquence de synchronisation courte. Les positions sont alors mises à jour plus souvent.
+{% endhint %}
+
+{% hint style="warning" %}
+**Respectez la vie privée** : informez vos livreurs lorsque le tracking est actif, et donnez-leur accès au mode confidentialité en dehors de leur temps de travail.
+{% endhint %}
+
+## Rubriques connexes
+
+* [Partager une tournée avec l’application mobile](share-a-tour-with-the-mobile-app.md)
+* [Créer et modifier un utilisateur](../import-and-data-setup/create-and-modify-a-user.md)
+* [Pourquoi mon export Excel est-il vide, incomplet ou en échec ?](../faq/why-is-my-excel-export-empty-incomplete-or-failed.md)
