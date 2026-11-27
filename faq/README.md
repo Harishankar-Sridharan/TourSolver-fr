@@ -51,5 +51,5 @@ La FAQ couvre les domaines suivants :
 
 ## Rubriques connexes
 
-* [Premiers pas](../README.md)
+* [Premiers pas](../getting-started/README.md)
 * [Communication client](../customer-communication/README.md)

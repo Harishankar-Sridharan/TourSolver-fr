@@ -1,8 +1,15 @@
 # Table of contents
 
-* [Premiers pas](README.md)
+* [Introduction](README.md)
+
+## Prise en main
+
+* [Premiers pas](getting-started/README.md)
   * [Processus d'inscription](getting-started/signup-process.md)
   * [Se connecter à TourSolver](getting-started/log-in-to-toursolver.md)
+
+## Guide de l’administrateur
+
 * [Import et configuration des données](import-and-data-setup/README.md)
   * [Créer un dépôt](import-and-data-setup/create-a-depot.md)
   * [Créer et modifier un utilisateur](import-and-data-setup/create-and-modify-a-user.md)
@@ -16,6 +23,9 @@
   * [Modifier une ressource et les contraintes associées](resource-and-vehicle-management/modifying-a-resource-and-associated-constraints.md)
   * [Renommer une quantité d'un véhicule](resource-and-vehicle-management/rename-a-quantity-of-a-vehicle.md)
   * [Configurer des vitesses variables](resource-and-vehicle-management/configure-variable-speeds.md)
+
+## Guide des opérations
+
 * [Opérations et gestion des tournées](operations-and-route-management/README.md)
   * [Comment géolocaliser mes livreurs](operations-and-route-management/how-do-i-geolocate-my-delivery-people.md)
   * [Exporter mes itinéraires](operations-and-route-management/export-my-routes.md)
@@ -68,6 +78,9 @@
   * [Prochaines visites](customer-communication/next-visits.md)
   * [Fin de la visite](customer-communication/end-of-visit.md)
   * [Annulation de visite](customer-communication/visit-cancellation.md)
+
+## Aide et FAQ
+
 * [FAQ](faq/README.md)
   * [1. Où mes données sont-elles hébergées ?](faq/where-is-my-data-hosted.md)
   * [2. Mes données sont-elles sécurisées et confidentielles ?](faq/how-secure-and-confidential-is-my-data.md)
@@ -102,3 +115,8 @@
   * [31. Pourquoi mon export vers WEBFLEET, Google Calendar ou Google Sheets échoue-t-il ?](faq/why-does-my-export-to-webfleet-google-calendar-or-google-sheets-fail.md)
   * [32. Pourquoi mon document PDF est-il vide ou sans logo ?](faq/why-is-my-pdf-document-missing-its-logo-or-empty.md)
   * [33. Pourquoi mes SMS ou e-mails clients ne sont-ils pas envoyés ?](faq/why-are-my-customer-sms-or-emails-not-sent.md)
+
+## Référence
+
+* [Trouver une rubrique (A–Z)](reference/find-a-topic.md)
+* [Glossaire](reference/glossary.md)
